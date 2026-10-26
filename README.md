@@ -1,178 +1,212 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/workflow.svg" width="80" alt="VibeETL Logo">
-  
-  # ⛵ VibeETL
-  
-  **A self-hosted, lightweight, visual ETL (Extract, Transform, Load) platform inspired by enterprise data engineering tools.**
+  <img src="desk_logo.jpg" width="220" alt="Desk Institutional Quantitative Engine Logo" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);">
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-  [![Made with Polars](https://img.shields.io/badge/Engine-Polars-blue)](https://pola.rs/)
-  [![React Flow](https://img.shields.io/badge/UI-ReactFlow-ff0055)](https://reactflow.dev/)
-  [![Enterprise Ready](https://img.shields.io/badge/Enterprise-Ready-8A2BE2?style=for-the-badge&logo=rocket)](#)
-</div>
+  # Desk
+  ### *Institutional Quantitative Intelligence & Systematic Execution Engine*
 
-> [!IMPORTANT]
-> **🚀 ENTERPRISE READY (v1.5):** VibeETL has reached its enterprise readiness milestone! Featuring global secure cloud authentication (OAuth 2.0 / Service Accounts) with **Native Windows Certificate Store integration** for bypassing corporate MITM proxies (like Zscaler), auto-healing crash recovery, unrestricted Nvidia GPU background processing, and massive database integrations (PostgreSQL, MySQL, SQLite). The latest v1.5 release introduces O(1) Polars vectorization for advanced analytics, machine learning pipelines, and predictive sports nodes!
+  [![Python: 3.11+](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)](#)
+  [![Engine: Polars](https://img.shields.io/badge/Engine-Polars-CD792C?style=flat&logo=polars&logoColor=white)](https://pola.rs/)
+  [![ML: LightGBM & Scikit-Learn](https://img.shields.io/badge/ML-LightGBM%20%7C%20Sklearn-blue?style=flat)](#)
+  [![Headless: Playwright V8](https://img.shields.io/badge/Scraper-Playwright%20Stealth-45ba4b?style=flat&logo=playwright&logoColor=white)](#)
+  [![Math: Positive EV](https://img.shields.io/badge/Core-Mathematical%20Edge%20(+EV)-purple?style=flat)](#)
+  [![Lineage: Loomflow](https://img.shields.io/badge/Lineage-cardchase%2Floomflow-darkcyan?style=flat)](https://github.com/cardchase/loomflow)
 
-<div align="center">
-  <img src="docs/screenshot_workflow.png?v=1.5.0" width="100%" alt="VibeETL Interactive Canvas Showcase">
-  <br>
-  <i>Build lightning-fast Polars data pipelines visually via an interactive React Flow DAG canvas.</i>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="docs/screenshot_ui.png" width="100%" alt="VibeETL Tabular UI Configuration">
-  <br>
-  <i>Configure tools effortlessly using enterprise-grade, compact spreadsheet-like UI panels.</i>
+  <p align="center">
+    <strong>A high-throughput quantitative engine engineered to extract verifiable mathematical edges (+EV) from live forward-looking market data.</strong>
+  </p>
 </div>
 
 ---
 
 > [!NOTE]
-> **🤖 An AI + Human Community Collaboration**
->
-> VibeETL is a modern, visual data engineering platform co-created in partnership between **Advanced AI Coding Agents** and the **Human Developer Community**! Built completely from scratch, this project represents the future of agentic development. 
-
-Welcome to the **VibeETL** open-source community! 🌍 Our mission is to build a vibrant, exciting, and beautiful platform where data engineers and analysts can effortlessly create, share, and manage a vast ecosystem of custom data processing tools. Let your imagination go wild! 🚀
-
-VibeETL brings the drag-and-drop visual pipeline building of massive enterprise tools directly to your local machine. Visually construct your data workflows, connect nodes with wires, and execute pipelines in-memory utilizing the lightning-fast Rust-based **Polars** engine. Whether you're dealing with a tiny CSV or millions of rows from a massive SQL warehouse, VibeETL handles it with absolute elegance.
-
----
-
-## 🎯 Core Philosophy
-
-VibeETL bridges the gap between complex code-based data preparation and heavy enterprise ETL licensing.
-
-- **Interactive Canvas**: Drag-and-drop tools to build Directed Acyclic Graphs (DAGs) of your data pipeline.
-- **In-Memory Executions**: Process data locally using **Polars** yielding sub-millisecond execution times.
-- 🐘 **Big Data Ready**: Connect directly to massive SQL Databases (PostgreSQL, MySQL, SQLite, etc.) via highly-parallelized `connectorx` Arrow drivers.
-- 🧠 **Smart DAG Pruning & Persistent Disk Caching**: Fully integrated node-caching capabilities. Click the Cache button to **Freeze** a node's output directly to highly compressed Parquet files on your hard drive. This survives server restarts and instantly bypasses expensive upstream computations (like ML predictions) in milliseconds!
-- 🏗️ **Union & Deduplication**: Stack datasets seamlessly or isolate distinct entries.
-- 📊 **Interactive Web Visuals**: Dynamically generate rich, interactive Scatter, Line, Bar, and Box plots using the integrated `Plotly` HTML backend. Hover, zoom, and pan directly inside your results grid!
-- ✨ **Multimodal Generative AI**: Seamlessly process Text, Images, Video, and Audio using the integrated **Gemini AI** node! Throw files and prompts at the node and watch it dynamically extract data into a new column.
-- 🐍 **Advanced Python Scripting**: A built-in Python tool featuring a beautifully integrated **native syntax-aware IDE**, complete with column-aware autocompletion (just type `df["`). Contains pre-built templates for hitting external APIs or running custom LLMs directly inside your pipeline!
-- 🤖 **Agent-Ready Architecture**: Export your complex mathematical workflows into an ultra-clean, machine-readable YAML file in one click. Send this single file to any AI Agent or LLM to automate, improve, or instantly orchestrate your intelligence platform from scratch!
-- 💾 **Workflow Save/Load**: Never lose your progress. Export your complete ETL pipeline architecture to JSON and restore it at any time directly from the visual canvas.
-- 🤝 **Share & Collaborate**: Because workflows are saved as ultra-lightweight JSON files, you can instantly share them over Slack, Discord, or GitHub! The community can load your exact pipeline to help you debug errors, build custom visualizations, or extend your data models.
-- 🛡️ **Zero Data-Loss Auto-Recover**: VibeETL features an enterprise-grade, two-tier autosave system. Workflows are instantly cached to your browser locally, while a debounced network process physically streams rolling `.autosave` increments to your backend server to protect you against catastrophic cache-wipes!
-- 🗂️ **Multi-Tabbed Workspaces**: Work on multiple isolated DAGs simultaneously, just like a modern IDE! Open, swap, and execute multiple independent pipelines via a seamless tab bar without ever overwriting your progress.
-- 📂 **Flexible I/O**: Ingest CSVs, Excel files, Text files, Word Documents, Database files (SQLite, Microsoft Access), parse tables directly out of PDFs, or write out fully interactive HTML visualizations.
-- ☁️ **Global Cloud Integrations**: VibeETL features a unified authentication system for cloud providers. Upload a Google Cloud `Service Account JSON` or `OAuth 2.0 Client Secret` exactly once in the global toolbar to instantly and securely authenticate all downstream cloud nodes simultaneously!
-- 📁 **Massive Batch Processing**: Use `Folder Input` to recursively scan directories and `Dynamic Input` to merge hundreds of heterogeneous CSV/Excel files diagonally, bypassing the need for identical schemas.
-- 🛑 **Interactive Workflow Cancellation**: Stop run-away pipelines or infinitely looping nodes instantly! Hit the global Stop button, or hover over any running node's spinner to surgically abort its execution mid-loop without losing upstream data.
-- **Self-Hosted & Privacy-First**: Run both the web UI and the execution engine entirely on your local machine. No external APIs required (unless explicitly using the Gemini node).
-
-## 🎨 Enterprise UI & Semantic Intelligence
-
-VibeETL brings the dense, hyper-productive feel of professional enterprise suites into the open-source era:
-
-- 📊 **Alteryx-Inspired Configuration Panels**: We've replaced bulky forms with compact, spreadsheet-like tabular grids. Manage hundreds of columns in a single dense view using intuitive checkboxes, dropdowns, and text fields—all while maintaining a gorgeous glassmorphic aesthetic.
-- 📦 **Tool Containers**: Seamlessly group workflows into bounded, resizable visual containers. Disable entire containers with a single click to instantly bypass massive chunks of logic during execution!
-- ⚡ **Multi-Rule Sorting & Summarization**: Build incredibly complex group-by chains and sequential sorting rules seamlessly. Our native Polars backend engine rips through multi-column aggregations instantly!
-- 🧠 **Semantic Type Profiling**: VibeETL's execution engine automatically profiles incoming data to detect logical semantic types (like `currency_usd`, `percentage`, `email`).
-- 💎 **Semantic Propagation**: When a semantic type is detected, the Engine maps it directly through the computational DAG! This metadata drives intelligent UI rendering—displaying `$` badges in your preview grid, formatting Plotly axes dynamically into currency layouts, and guiding users seamlessly.
-- ⭐ **Dynamic Tool Favorites**: Fully customize your workspace! Pin any tool to your exclusive "Favorites" group by clicking its Star badge, completely eliminating scrolling and searching when building workflows. Your preferences are instantly saved to your browser's local storage and flawlessly restored across sessions!
-- 🔢 **True Sequential Numbering & Find**: Navigating massive workflows is incredibly easy with true, clean sequential Node IDs (`node_1`, `node_2`) that make hitting the "Find" bar extremely powerful and accurate.
-- ✨ **Intelligent Canvas Branching**: Build complex, multi-path workflows effortlessly. The canvas dynamically preserves all existing edge connections when dropping new tools, allowing you to seamlessly branch a single output into multiple downstream tools simultaneously.
-- 🧲 **Smart Canvas Mechanics**: Magnetic wire snapping, node-collision detection, cascading auto-drops, and a dedicated "Clear All Cache" tool keep the canvas incredibly responsive and visually flawless!
-
----
-
-## 🛠️ Architecture at a Glance
-
-VibeETL is decoupled into a hyper-fast frontend and a robust backend engine.
-
-```mermaid
-graph TD
-    A[React Canvas UI / @xyflow/react] -->|JSON DAG Payload| B[FastAPI Engine / uvicorn]
-    B -->|Topological Sort| C[Execution Planner]
-    C -->|Executes In-Memory| E[Polars DataFrames]
-    E -->|JSON Data Preview| A
-```
-
----
-
-## 📦 Extensive Built-in Tool Palette
-
-VibeETL comes pre-loaded with an extensive suite of data engineering nodes, elegantly categorized into pipelines.
-
-| Category | Color | Included Tools |
-| :--- | :--- | :--- |
-| **In / Out** | Green 🟢 | `Folder Input`, `Dynamic Input`, `File Input`, `Database Input`, `Browse`, `File Output`, `Database Output`, `Image Ingest` |
-| **Cloud** | Cyan 🩵 | `Google Sheets In`, `Google Sheets Out`, `GCS Input`, `GCS Output` |
-| **Preparation** | Blue 🔵 | `Filter`, `Sort`, `Cleanse`, `Formula Compute`, `Unique`, `Regex`, `Record ID`, `Sample Records`, `Field Info` |
-| **Transform** | Orange 🟠 | `Select`, `Pivot`, `Unpivot`, `Summarize`, `Date Time` |
-| **Join** | Purple 🟣 | `Union`, `Join` |
-| **Analysis** | Pink 🦩 | `Gemini AI (Multimodal LLM)`, `Visualization`, `Python Code`, `LLM Chunker`, `Football Engine`, `ML Predictor` |
-
-> 🚀 **More Tools on the Horizon!**
-> We are continuously expanding the VibeETL ecosystem! We have recently launched the **Cloud Connectors** suite, meaning `Google Sheets` and `Google Cloud Storage (GCS)` nodes are now partially ready for community use and testing! Expect more advanced integrations like Machine Learning predictors and geospatial transformers very soon.
+> **🏛️ Lineage & Core Ethos**
 > 
-> 🌍 **We invite you to build with us!** 
-> VibeETL is built by and for the community. If you have an idea for a custom data tool, use our Zero-Code SDK to build it and submit a Pull Request! Help us complete the platform and make it the ultimate open-source intelligence powerhouse. Let's build the future together! 🤝
-
-> 📖 **Looking for a deep dive into each tool?**
-> Check out our comprehensive [Node Reference Guide](docs/Nodes_Reference.md) for parameter breakdowns, expected schemas, and configuration examples for all built-in ETL tools.
+> **Desk** evolved and built upward from the high-throughput visual data engineering foundation of [cardchase/loomflow](https://github.com/cardchase/loomflow). 
+> 
+> While Loomflow provided the enterprise visual ETL framework, **Desk** transforms that computational backbone into a dedicated **Quantitative Intelligence & Systematic Edge Discovery Engine**. 
+>
+> The sole ethos of Desk is **finding true mathematical edge in noisy, forward-looking market streams**—identifying empirical pricing discrepancies where bookmaker or market consensus diverges from predictive statistical reality, and translating that discrepancy into strictly guarded, positive expected value ($+EV$) execution cards.
 
 ---
 
-## 🚀 Quick Start Guide
+## 🧭 Multi-Domain Intelligence Architecture
 
-To make VibeETL user-friendly for tech-savvy users, we have provided automated startup scripts that instantly handle virtual environments, npm packages, and dual-server startup!
+Desk is designed as an asset-agnostic quantitative workbench. It currently runs active production intelligence across global sports markets, with financial and forward asset modeling in active development.
 
-### Method 1: The Automated Runner (Recommended)
-
-These scripts (`run.ps1` for Windows, `run.sh` for Mac/Linux) are the primary entrypoints for VibeETL. They automatically set up your Python virtual environment, install Node.js dependencies, and launch both the backend and frontend servers simultaneously.
-
-**Windows (PowerShell)**
-```powershell
-.\run.ps1
+```
+                                      ┌──────────────────────────────────────────────┐
+                                      │                     DESK                     │
+                                      │   Institutional Quantitative Engine          │
+                                      └──────────────────────┬───────────────────────┘
+                                                             │
+                    ┌────────────────────────────────────────┼────────────────────────────────────────┐
+                    │                                        │                                        │
+                    ▼                                        ▼                                        ▼
+   ┌─────────────────────────────────┐      ┌─────────────────────────────────┐      ┌─────────────────────────────────┐
+   │       🏀 BASKETBALL (NBA)       │      │        ⚽ SOCCER (GLOBAL)       │      │   📈 FINANCIALS & MARKETS (DEV) │
+   │  - Full Market Splits           │      │  - 75,000+ Historical Matches   │      │  - Systematic Order Flow        │
+   │  - FT, 1H, 2H, Q1-Q4            │      │  - 50+ Countries & Leagues      │      │  - Forward Curve Imbalances     │
+   │  - Dual Pace Regressors         │      │  - 1X2, OU (0.5-5.5), BTTS      │      │  - Volatility Spread Arbitrage  │
+   │  - Dynamic Elo Power Curves     │      │  - Resilient Auto-Resume State  │      │  - Real-Time Quant Indicators   │
+   └─────────────────────────────────┘      └─────────────────────────────────┘      └─────────────────────────────────┘
 ```
 
-**macOS / Linux (Bash)**
-```bash
-chmod +x run.sh
-./run.sh
+---
+
+## 🏀 Basketball (NBA) Systematic Edge Suite
+
+The NBA module provides end-to-end coverage: from 10-worker concurrent odds ingestion, to rolling feature engineering, to dual machine learning regression, culminating in actionable daily betting cards.
+
+### 1. Market Coverage
+* **Moneyline (Home / Away 2-Way)**: Full Time (inc. OT), 1st Half, 2nd Half, 1st Quarter, 2nd Quarter, 3rd Quarter, 4th Quarter.
+* **Over / Under Totals**: Full Time (inc. OT), 1st Half, 2nd Half, 1st Quarter, 2nd Quarter, 3rd Quarter, 4th Quarter.
+* **Target Line Priority**: Dynamically isolates Bet365 balanced lines (~`1.91`/`1.91`) with fallback to sharp consensus (Pinnacle/888sport).
+
+### 2. The Core Mathematical Models
+1. **Dynamic Elo Rating Engine**:
+   - Calculates custom game-by-game team power ratings with a tuned $K=20.0$ and Home Advantage offset of $+70.0$ Elo points.
+   - Automatically applies **25% inter-season regression** to account for off-season roster turnover and reversion to the league mean.
+   $$P(\text{Home Win}) = \frac{1}{1 + 10^{(R_{\text{Away}} - (R_{\text{Home}} + 70)) / 400}}$$
+
+2. **Dual 50/50 Total Point Regressors**:
+   - **Model A (Pure Pace Regressor)**: Uses strictly team-level rolling metrics (offensive/defensive efficiency, recent 5-game & 15-game pace, rest days, back-to-backs) completely blind to market odds.
+   - **Model B (Market Residual Regressor)**: Predicts the delta between the bookmaker's posted line and the true outcome ($\text{Actual} - \text{Line}$).
+   - **The Blend**: Combines both models 50/50 to eliminate anchoring bias while respecting sharp market consensus.
+   $$\hat{y}_{\text{projected}} = \frac{1}{2} \hat{y}_{\text{pure}} + \frac{1}{2} \left(\text{Line}_{\text{market}} + \hat{r}_{\text{residual}}\right)$$
+
+3. **Strict Tie Filtering**:
+   - Because derivative markets (1st Half, 1st Quarter) feature three outcomes (Home, Away, Tie), training data strictly eliminates tie games from binary logistic classifiers to prevent probability distortion.
+
+4. **Quantitative Edge & Fractional Kelly Sizing**:
+   - Computes Expected Value against bookmaker decimal odds:
+   $$\text{EV}\% = \left(P_{\text{model}} \times \text{Odds}_{\text{decimal}}\right) - 1.0$$
+   - Allocates risk according to a conservative quarter-Kelly criterion with a 2.0u–5.0u hard cap.
+
+5. **Guardrail Metrics**:
+   - **`Min_Playable_Odds`**: Calculates the mathematical floor below which the bet must be passed to protect against margin erosion (ensures a minimum $+2.0\%$ edge buffer).
+   - **`Play_To_Line`**: Evaluates total distribution standard deviation ($\sigma \approx 13.5$ pts for FT, $8.5$ pts for 1H) and computes the exact total line cutoff maintaining a $53.0\%$ win rate threshold.
+   - **Reverse Line Movement (Steam / Injury Alert)**: If an odds line drifts higher by $\ge +0.15$ on your betting app compared to opening/scraped lines, Desk triggers an immediate alert to pause betting until official starting lineups confirm.
+
+---
+
+## ⚽ Soccer (Global Football) Historical Warehouse
+
+Desk houses a massive-scale, high-concurrency client-side V8 extraction engine for international soccer:
+
+* **Over 75,000+ Completed Matches** across 50+ countries and global leagues (Premier League, La Liga, Serie A, Bundesliga, Champions League, Copa Libertadores, A-League, and regional divisions).
+* **Granular Score Timelines**: Full Time (FT), Half Time (HT), Second Half (SH), Extra Time (ET), and Penalty shootouts.
+* **Full Market Matrix**:
+  * 1X2 Match Winner (FT, 1H, 2H)
+  * Over/Under Totals (`0.5`, `1.5`, `2.5`, `3.5`, `4.5`, `5.5`)
+  * Both Teams to Score (BTTS: Yes / No)
+  * Double Chance (1X, 12, X2)
+  * Draw No Bet (DNB)
+* **Resilient State Persistence**: Auto-resuming state machine (`soccer_historical_state.json`) that recovers flawlessly across network disconnects, browser restarts, and anti-scraping challenges.
+
+---
+
+## 🚀 Execution & Performance Engineering
+
+Desk is built for sub-second vector processing and high-concurrency client-side crawling:
+
+* **10-Worker Browser Pool**: Uses Playwright with stealth evasions and an `asyncio.Semaphore(10)` worker pool. Scrapes 30+ upcoming matches with 14 markets per match in **under 2 minutes**.
+* **Zero Data-Loss Incremental Persistence**: Real-time async write locks (`save_lock`) ensure that as each individual fixture finishes scraping, it immediately flushes to disk. You can open and inspect [`upcoming_games.csv`](file:///sports/basketball/nba/data/upcoming_games.csv) live while the scraper runs.
+* **In-Memory Vector Analytics**: Powered by Rust-based [Polars](https://pola.rs/) DataFrames for millisecond feature computations across multi-gigabyte historical sets.
+
+---
+
+## 📁 Repository Structure
+
+```
+Desk/
+│
+├── desk_logo.jpg                          <- Official Project Identity
+├── README.md                              <- Institutional Architecture & Documentation
+├── requirements.txt                       <- Python Core Dependencies
+│
+├── sports/
+│   ├── basketball/
+│   │   └── nba/
+│   │       ├── data/
+│   │       │   ├── nba_historical.csv                 <- Master Training Base (10,000+ matches)
+│   │       │   ├── upcoming_games.csv                 <- Fresh live odds & fixture slate
+│   │       │   ├── actionable_betting_checklist.csv   <- EXECUTIVE DELIVERABLE (Top high-edge picks)
+│   │       │   └── weekly_betting_card.csv            <- Complete multi-market quantitative card
+│   │       └── scripts/
+│   │           ├── run_nba_predictions.py             <- Unified Command Center / Daily Entrypoint
+│   │           ├── nba_master_predictor.py            <- Machine learning engine & math core
+│   │           ├── basketball_upcoming.py             <- Live odds extractor (10 concurrent workers)
+│   │           ├── update_nba_history.py              <- Incremental historical updater
+│   │           ├── basketball_historical.py           <- Full-season historical archive scraper
+│   │           └── README.md                          <- NBA Technical Manual & Math Documentation
+│   │
+│   └── soccer/
+│       ├── data/
+│       │   ├── soccer_historical.csv                  <- Global Historical Warehouse (75,000+ matches)
+│       │   └── soccer_historical_state.json          <- Fault-tolerant crawler state tracker
+│       └── scripts/
+│           ├── soccer_historical.py                   <- High-throughput global soccer scraper
+│           └── soccer_upcoming.py                     <- Upcoming fixture & multi-market extractor
+│
+└── archive/                               <- Legacy scripts, prototypes & exploratory data
 ```
 
-### Method 2: Manual Step-by-Step
+---
 
-If you prefer to run the components manually in separate terminals:
+## ⚡ Quickstart Manual
 
-**Backend (Terminal 1)**
+### 1. Installation
+Clone the repository and install the required dependencies:
 ```bash
-cd backend
-python -m venv venv
-.\venv\Scripts\activate  # (Or source venv/bin/activate on Mac/Linux)
+git clone https://github.com/cardchase/Desk.git
+cd Desk
 pip install -r requirements.txt
-python run.py
+playwright install chromium
 ```
 
-**Frontend (Terminal 2)**
+### 2. Daily NBA Edge Extraction & Prediction
+Run the unified command center with a single command. This automatically scrapes live odds with 10 concurrent browser workers and computes the day's highest-edge plays:
+
 ```bash
-cd frontend
-npm install
-npm run dev
+# Automated run: Scrapes live odds with concurrency=10, then executes predictive models
+python sports/basketball/nba/scripts/run_nba_predictions.py --scrape
+
+# Or run the master predictor directly with live scraping:
+python sports/basketball/nba/scripts/nba_master_predictor.py --scrape
+```
+
+To run predictions instantly against previously scraped odds:
+```bash
+python sports/basketball/nba/scripts/run_nba_predictions.py --all --no-scrape
+```
+
+### 3. Reviewing Executive Deliverables
+Open [`sports/basketball/nba/data/actionable_betting_checklist.csv`](file:///sports/basketball/nba/data/actionable_betting_checklist.csv) in Excel or Google Sheets. The checklist outputs:
+1. **Matchup & Market** (e.g. `FT_OU`, `1H_OU`, `Moneyline`)
+2. **Recommended Pick** & Current Market Odds
+3. **Model Projected Total / Probability**
+4. **`Min_Playable_Odds`**: Guardrail floor odds.
+5. **`Play_To_Line`**: Cutoff threshold if the line moves.
+6. **`Rec_Units`**: Exact mathematical stake allocation.
+
+### 4. Updating Historical Training Archives
+Once or twice weekly, append newly completed games to the training base:
+```bash
+python sports/basketball/nba/scripts/update_nba_history.py
 ```
 
 ---
 
-## 🧩 Developer Guide: Zero-Code UI Integration
+## 🔬 Technical Philosophy & Disclaimer
 
-To extend **VibeETL** with your own customized nodes, we have designed a **completely dynamic SDK architecture**! 
+**Desk is a personal quantitative research lab and systematic edge exploration workbench.**
 
-Developers do **NOT** need to write any React/Javascript to build forms! Simply build and register a single Python class in `backend/app/tools/`, define a `MANIFEST` dictionary, and the platform will automatically generate your Canvas nodes, Lucide icons, Category groups, Form inputs, and Default states dynamically at runtime!
-
-*Check the codebase for examples of how our dynamic manifests automatically render complex UI components like multi-select dropdowns, data previews, and code-completion textareas!*
+* It is maintained primarily for private research, mathematical modeling, and hobbyist edge discovery.
+* The repository is public on GitHub in the spirit of open science, reproducibility, and modern software craft.
+* **Disclaimer**: All models, projections, and recommendations are mathematical outputs intended for quantitative study. Desk does not offer financial or gambling advice. Always practice strict bankroll management.
 
 ---
+
 <div align="center">
-  <i>Built with ❤️ by the VibeETL Community.</i>
+  <sub>Engineered by <strong>cardchase</strong> • Co-developed with Advanced Agentic AI • Evolved from Loomflow</sub>
 </div>
-
-
-## 🏆 Advanced Analytics & Machine Learning (v1.5)
-The Advanced Analytics suite is now live! We have fully built out complex feature engineering nodes (like the `Football Engine` and `Odds Analyzer`) and intelligent multi-target Machine Learning pipelines (`Predictor`) that leverage our lightning-fast Polars backend to forecast outcomes directly on the canvas! Operations that used to take seconds via Pandas loops now execute in sub-milliseconds natively.

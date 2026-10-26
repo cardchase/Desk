@@ -1,0 +1,115 @@
+Date,Matchup,Market,Pick,Odds,Model_Prob_%,Bookie_Prob_%,Edge_%,EV_%,Min_Playable_Odds,Model_Proj_Pts,Line_Cushion_Pts,Play_To_Line,Rec_Units
+2026-10-24,Chicago Bulls @ Milwaukee Bucks,FT_ML,Milwaukee Bucks ML,1.98,43.4,48.3,-4.86,-13.98,2.35,,,,0.0
+2026-10-24,Chicago Bulls @ Milwaukee Bucks,FT_ML,Chicago Bulls ML,1.85,56.6,51.7,4.86,4.62,1.8,,,,1.36
+2026-10-24,Atlanta Hawks @ Charlotte Hornets,FT_ML,Charlotte Hornets ML,2.22,46.8,43.2,3.57,3.88,2.18,,,,0.79
+2026-10-24,Atlanta Hawks @ Charlotte Hornets,FT_ML,Atlanta Hawks ML,1.69,53.2,56.8,-3.57,-10.08,1.92,,,,0.0
+2026-10-24,New York Knicks @ Boston Celtics,FT_ML,Boston Celtics ML,1.72,56.0,56.0,0.01,-3.65,1.82,,,,0.0
+2026-10-24,New York Knicks @ Boston Celtics,FT_ML,New York Knicks ML,2.19,44.0,44.0,-0.01,-3.67,2.32,,,,0.0
+2026-10-24,Dallas Mavericks @ Indiana Pacers,FT_ML,Indiana Pacers ML,1.42,66.3,67.9,-1.67,-5.88,1.54,,,,0.0
+2026-10-24,Dallas Mavericks @ Indiana Pacers,FT_ML,Dallas Mavericks ML,3.01,33.7,32.1,1.67,1.5,3.02,,,,0.19
+2026-10-24,Minnesota Timberwolves @ Orlando Magic,FT_ML,Orlando Magic ML,2.1,44.5,45.9,-1.43,-6.65,2.29,,,,0.0
+2026-10-24,Minnesota Timberwolves @ Orlando Magic,FT_ML,Minnesota Timberwolves ML,1.78,55.5,54.1,1.43,-1.12,1.84,,,,0.0
+2026-10-24,Toronto Raptors @ Washington Wizards,FT_ML,Washington Wizards ML,2.88,30.2,33.5,-3.27,-12.98,3.38,,,,0.0
+2026-10-24,Toronto Raptors @ Washington Wizards,FT_ML,Toronto Raptors ML,1.45,69.8,66.5,3.27,1.19,1.46,,,,0.66
+2026-10-24,Detroit Pistons @ Miami Heat,FT_ML,Miami Heat ML,1.95,49.2,49.6,-0.43,-4.1,2.07,,,,0.0
+2026-10-24,Detroit Pistons @ Miami Heat,FT_ML,Detroit Pistons ML,1.92,50.8,50.4,0.43,-2.42,2.01,,,,0.0
+2026-10-24,Houston Rockets @ San Antonio Spurs,FT_ML,San Antonio Spurs ML,1.48,67.7,65.0,2.69,0.2,1.51,,,,0.11
+2026-10-24,Houston Rockets @ San Antonio Spurs,FT_ML,Houston Rockets ML,2.75,32.3,35.0,-2.69,-11.19,3.16,,,,0.0
+2026-10-24,New Orleans Pelicans @ Utah Jazz,FT_ML,Utah Jazz ML,1.76,52.9,54.6,-1.72,-6.87,1.93,,,,0.0
+2026-10-24,New Orleans Pelicans @ Utah Jazz,FT_ML,New Orleans Pelicans ML,2.12,47.1,45.4,1.72,-0.18,2.17,,,,0.0
+2026-10-24,Memphis Grizzlies @ Golden State Warriors,FT_ML,Golden State Warriors ML,1.64,53.6,58.8,-5.17,-12.06,1.9,,,,0.0
+2026-10-24,Memphis Grizzlies @ Golden State Warriors,FT_ML,Memphis Grizzlies ML,2.34,46.4,41.2,5.17,8.53,2.2,,,,1.59
+2026-10-24,Los Angeles Clippers @ Los Angeles Lakers,FT_ML,Los Angeles Lakers ML,1.27,74.2,75.9,-1.73,-5.74,1.37,,,,0.0
+2026-10-24,Los Angeles Clippers @ Los Angeles Lakers,FT_ML,Los Angeles Clippers ML,4.01,25.8,24.1,1.73,3.39,3.96,,,,0.28
+2026-10-24,Portland Trail Blazers @ Sacramento Kings,FT_ML,Sacramento Kings ML,3.59,22.9,26.9,-3.97,-17.75,4.45,,,,0.0
+2026-10-24,Portland Trail Blazers @ Sacramento Kings,FT_ML,Portland Trail Blazers ML,1.32,77.1,73.1,3.97,1.76,1.32,,,,1.37
+2026-10-24,Chicago Bulls @ Milwaukee Bucks,1H_ML,Milwaukee Bucks ML,1.93,48.8,49.5,-0.7,-5.87,2.09,,,,0.0
+2026-10-24,Chicago Bulls @ Milwaukee Bucks,1H_ML,Chicago Bulls ML,1.89,51.2,50.5,0.7,-3.18,1.99,,,,0.0
+2026-10-24,Atlanta Hawks @ Charlotte Hornets,1H_ML,Charlotte Hornets ML,2.11,49.1,45.5,3.6,3.56,2.08,,,,0.8
+2026-10-24,Atlanta Hawks @ Charlotte Hornets,1H_ML,Atlanta Hawks ML,1.76,50.9,54.5,-3.6,-10.38,2.0,,,,0.0
+2026-10-24,New York Knicks @ Boston Celtics,1H_ML,Boston Celtics ML,1.81,54.9,52.9,2.0,-0.7,1.86,,,,0.0
+2026-10-24,New York Knicks @ Boston Celtics,1H_ML,New York Knicks ML,2.03,45.1,47.1,-2.0,-8.37,2.26,,,,0.0
+2026-10-24,Houston Rockets @ San Antonio Spurs,1H_ML,San Antonio Spurs ML,1.61,60.1,59.8,0.32,-3.29,1.7,,,,0.0
+2026-10-24,Houston Rockets @ San Antonio Spurs,1H_ML,Houston Rockets ML,2.39,39.9,40.2,-0.32,-4.56,2.55,,,,0.0
+2026-10-24,New Orleans Pelicans @ Utah Jazz,1H_ML,Utah Jazz ML,1.78,52.8,54.0,-1.22,-6.05,1.93,,,,0.0
+2026-10-24,New Orleans Pelicans @ Utah Jazz,1H_ML,New Orleans Pelicans ML,2.09,47.2,46.0,1.22,-1.32,2.16,,,,0.0
+2026-10-24,Chicago Bulls @ Milwaukee Bucks,Q1_ML,Milwaukee Bucks ML,1.85,48.3,50.0,-1.71,-10.66,2.11,,,,0.0
+2026-10-24,Chicago Bulls @ Milwaukee Bucks,Q1_ML,Chicago Bulls ML,1.85,51.7,50.0,1.71,-4.34,1.97,,,,0.0
+2026-10-24,Atlanta Hawks @ Charlotte Hornets,Q1_ML,Charlotte Hornets ML,2.0,45.8,46.4,-0.57,-8.39,2.23,,,,0.0
+2026-10-24,Atlanta Hawks @ Charlotte Hornets,Q1_ML,Atlanta Hawks ML,1.73,54.2,53.6,0.57,-6.25,1.88,,,,0.0
+2026-10-24,New York Knicks @ Boston Celtics,Q1_ML,Boston Celtics ML,1.83,50.1,52.2,-2.13,-8.33,2.04,,,,0.0
+2026-10-24,New York Knicks @ Boston Celtics,Q1_ML,New York Knicks ML,2.0,49.9,47.8,2.13,-0.18,2.04,,,,0.0
+2026-10-24,Houston Rockets @ San Antonio Spurs,Q1_ML,San Antonio Spurs ML,1.63,54.6,59.0,-4.4,-10.93,1.87,,,,0.0
+2026-10-24,Houston Rockets @ San Antonio Spurs,Q1_ML,Houston Rockets ML,2.35,45.4,41.0,4.4,6.59,2.25,,,,1.22
+2026-10-24,Chicago Bulls @ Milwaukee Bucks,FT_OU,FT Over 237.5,1.91,49.5,50.0,-0.54,-5.52,2.06,237.3,-0.2,236.0,0.0
+2026-10-24,Chicago Bulls @ Milwaukee Bucks,FT_OU,FT Under 237.5,1.91,50.5,50.0,0.54,-3.48,2.02,237.3,0.2,238.6,0.0
+2026-10-24,Atlanta Hawks @ Charlotte Hornets,FT_OU,FT Over 225.5,1.85,45.9,50.0,-4.09,-15.07,2.22,222.4,-3.1,221.1,0.0
+2026-10-24,Atlanta Hawks @ Charlotte Hornets,FT_OU,FT Under 225.5,1.85,54.1,50.0,4.09,0.07,1.89,222.4,3.1,223.7,0.02
+2026-10-24,New York Knicks @ Boston Celtics,FT_OU,FT Over 223.5,1.85,42.3,50.0,-7.75,-21.84,2.41,217.2,-6.3,215.9,0.0
+2026-10-24,New York Knicks @ Boston Celtics,FT_OU,FT Under 223.5,1.85,57.7,50.0,7.75,6.84,1.77,217.2,6.3,218.5,2.01
+2026-10-24,Dallas Mavericks @ Indiana Pacers,FT_OU,FT Over 238.0,1.94,49.9,50.0,-0.09,-3.17,2.04,238.2,0.2,236.9,0.0
+2026-10-24,Dallas Mavericks @ Indiana Pacers,FT_OU,FT Under 238.0,1.94,50.1,50.0,0.09,-2.83,2.04,238.2,-0.2,239.6,0.0
+2026-10-24,Minnesota Timberwolves @ Orlando Magic,FT_OU,FT Over 234.5,1.93,38.7,50.1,-11.46,-25.37,2.64,225.3,-9.2,224.0,0.0
+2026-10-24,Minnesota Timberwolves @ Orlando Magic,FT_OU,FT Under 234.5,1.94,61.3,49.9,11.46,18.99,1.66,225.3,9.2,226.6,5.0
+2026-10-24,Toronto Raptors @ Washington Wizards,FT_OU,FT Over 236.5,1.92,46.2,50.4,-4.19,-11.3,2.21,233.5,-3.0,232.2,0.0
+2026-10-24,Toronto Raptors @ Washington Wizards,FT_OU,FT Under 236.5,1.95,53.8,49.6,4.19,4.92,1.9,233.5,3.0,234.8,1.29
+2026-10-24,Detroit Pistons @ Miami Heat,FT_OU,FT Over 236.0,1.95,45.9,49.4,-3.5,-10.59,2.22,232.9,-3.1,231.6,0.0
+2026-10-24,Detroit Pistons @ Miami Heat,FT_OU,FT Under 236.0,1.9,54.1,50.6,3.5,2.88,1.88,232.9,3.1,234.2,0.8
+2026-10-24,Houston Rockets @ San Antonio Spurs,FT_OU,FT Over 228.0,1.94,40.2,50.0,-9.77,-21.96,2.54,220.0,-8.0,218.7,0.0
+2026-10-24,Houston Rockets @ San Antonio Spurs,FT_OU,FT Under 228.0,1.94,59.8,50.0,9.77,15.96,1.71,220.0,8.0,221.3,4.25
+2026-10-24,New Orleans Pelicans @ Utah Jazz,FT_OU,FT Over 238.5,1.91,56.6,50.0,6.59,8.09,1.8,244.1,5.6,242.8,2.22
+2026-10-24,New Orleans Pelicans @ Utah Jazz,FT_OU,FT Under 238.5,1.91,43.4,50.0,-6.59,-17.09,2.35,244.1,-5.6,245.4,0.0
+2026-10-24,Memphis Grizzlies @ Golden State Warriors,FT_OU,FT Over 234.5,1.93,49.7,50.0,-0.27,-4.02,2.05,234.5,0.0,233.2,0.0
+2026-10-24,Memphis Grizzlies @ Golden State Warriors,FT_OU,FT Under 234.5,1.93,50.3,50.0,0.27,-2.98,2.03,234.5,-0.0,235.8,0.0
+2026-10-24,Los Angeles Clippers @ Los Angeles Lakers,FT_OU,FT Over 228.5,1.95,44.5,49.5,-4.97,-13.2,2.29,224.3,-4.2,223.0,0.0
+2026-10-24,Los Angeles Clippers @ Los Angeles Lakers,FT_OU,FT Under 228.5,1.91,55.5,50.5,4.97,5.98,1.84,224.3,4.2,225.6,1.64
+2026-10-24,Portland Trail Blazers @ Sacramento Kings,FT_OU,FT Over 232.5,1.94,43.5,49.7,-6.22,-15.57,2.34,227.5,-5.0,226.2,0.0
+2026-10-24,Portland Trail Blazers @ Sacramento Kings,FT_OU,FT Under 232.5,1.92,56.5,50.3,6.22,8.44,1.81,227.5,5.0,228.9,2.29
+2026-10-24,Chicago Bulls @ Milwaukee Bucks,1H_OU,1H Over 115.5,1.95,51.5,49.0,2.59,0.52,1.98,116.4,0.9,115.6,0.14
+2026-10-24,Chicago Bulls @ Milwaukee Bucks,1H_OU,1H Under 115.5,1.87,48.5,51.0,-2.59,-9.39,2.11,116.4,-0.9,117.3,0.0
+2026-10-24,Atlanta Hawks @ Charlotte Hornets,1H_OU,1H Over 116.5,1.91,48.2,50.0,-1.78,-7.9,2.12,115.6,-0.9,114.8,0.0
+2026-10-24,Atlanta Hawks @ Charlotte Hornets,1H_OU,1H Under 116.5,1.91,51.8,50.0,1.78,-1.1,1.97,115.6,0.9,116.4,0.0
+2026-10-24,New York Knicks @ Boston Celtics,1H_OU,1H Over 114.5,1.79,44.1,52.1,-8.02,-21.02,2.31,111.3,-3.2,110.4,0.0
+2026-10-24,New York Knicks @ Boston Celtics,1H_OU,1H Under 114.5,1.95,55.9,47.9,8.02,8.96,1.83,111.3,3.2,112.1,2.36
+2026-10-24,Dallas Mavericks @ Indiana Pacers,1H_OU,1H Over 122.5,1.83,49.4,50.0,-0.6,-9.59,2.06,122.2,-0.3,121.4,0.0
+2026-10-24,Dallas Mavericks @ Indiana Pacers,1H_OU,1H Under 122.5,1.83,50.6,50.0,0.6,-7.41,2.02,122.2,0.3,123.1,0.0
+2026-10-24,Minnesota Timberwolves @ Orlando Magic,1H_OU,1H Over 114.5,1.89,46.8,50.5,-3.76,-11.62,2.18,112.8,-1.7,112.0,0.0
+2026-10-24,Minnesota Timberwolves @ Orlando Magic,1H_OU,1H Under 114.5,1.93,53.2,49.5,3.76,2.75,1.92,112.8,1.7,113.6,0.74
+2026-10-24,Toronto Raptors @ Washington Wizards,1H_OU,1H Over 114.5,1.9,51.4,50.0,1.45,-2.25,1.98,115.2,0.7,114.4,0.0
+2026-10-24,Toronto Raptors @ Washington Wizards,1H_OU,1H Under 114.5,1.9,48.6,50.0,-1.45,-7.75,2.1,115.2,-0.7,116.1,0.0
+2026-10-24,Detroit Pistons @ Miami Heat,1H_OU,1H Over 121.5,1.97,44.6,48.4,-3.79,-12.05,2.28,119.0,-2.5,118.1,0.0
+2026-10-24,Detroit Pistons @ Miami Heat,1H_OU,1H Under 121.5,1.85,55.4,51.6,3.79,2.41,1.84,119.0,2.5,119.8,0.71
+2026-10-24,Houston Rockets @ San Antonio Spurs,1H_OU,1H Over 109.5,1.85,50.3,51.7,-1.37,-6.9,2.03,109.5,0.0,108.7,0.0
+2026-10-24,Houston Rockets @ San Antonio Spurs,1H_OU,1H Under 109.5,1.98,49.7,48.3,1.37,-1.65,2.05,109.5,-0.0,110.4,0.0
+2026-10-24,New Orleans Pelicans @ Utah Jazz,1H_OU,1H Over 123.5,1.91,48.7,50.0,-1.34,-7.06,2.1,122.9,-0.6,122.1,0.0
+2026-10-24,New Orleans Pelicans @ Utah Jazz,1H_OU,1H Under 123.5,1.91,51.3,50.0,1.34,-1.94,1.99,122.9,0.6,123.8,0.0
+2026-10-24,Memphis Grizzlies @ Golden State Warriors,1H_OU,1H Over 121.5,1.9,44.6,50.0,-5.37,-15.2,2.29,118.8,-2.7,117.9,0.0
+2026-10-24,Memphis Grizzlies @ Golden State Warriors,1H_OU,1H Under 121.5,1.9,55.4,50.0,5.37,5.2,1.84,118.8,2.7,119.6,1.44
+2026-10-24,Los Angeles Clippers @ Los Angeles Lakers,1H_OU,1H Over 110.5,1.89,51.8,50.7,1.18,-2.04,1.97,111.4,0.9,110.5,0.0
+2026-10-24,Los Angeles Clippers @ Los Angeles Lakers,1H_OU,1H Under 110.5,1.94,48.2,49.3,-1.18,-6.55,2.12,111.4,-0.9,112.2,0.0
+2026-10-24,Portland Trail Blazers @ Sacramento Kings,1H_OU,1H Over 119.5,1.94,45.2,49.2,-4.0,-12.29,2.26,117.2,-2.3,116.3,0.0
+2026-10-24,Portland Trail Blazers @ Sacramento Kings,1H_OU,1H Under 119.5,1.88,54.8,50.8,4.0,3.0,1.86,117.2,2.3,118.0,0.85
+2026-10-24,Chicago Bulls @ Milwaukee Bucks,Q1_OU,Q1 Over 58.0,1.93,50.8,48.4,2.45,-1.87,2.01,58.5,0.5,57.9,0.0
+2026-10-24,Chicago Bulls @ Milwaukee Bucks,Q1_OU,Q1 Under 58.0,1.81,49.2,51.6,-2.45,-11.03,2.08,58.5,-0.5,59.1,0.0
+2026-10-24,Atlanta Hawks @ Charlotte Hornets,Q1_OU,Q1 Over 58.5,1.85,47.5,50.0,-2.49,-12.1,2.15,57.7,-0.8,57.1,0.0
+2026-10-24,Atlanta Hawks @ Charlotte Hornets,Q1_OU,Q1 Under 58.5,1.85,52.5,50.0,2.49,-2.9,1.94,57.7,0.8,58.3,0.0
+2026-10-24,New York Knicks @ Boston Celtics,Q1_OU,Q1 Over 58.5,2.0,42.5,47.8,-5.29,-15.03,2.4,56.0,-2.5,55.4,0.0
+2026-10-24,New York Knicks @ Boston Celtics,Q1_OU,Q1 Under 58.5,1.83,57.5,52.2,5.29,5.25,1.77,56.0,2.5,56.6,1.58
+2026-10-24,Dallas Mavericks @ Indiana Pacers,Q1_OU,Q1 Over 62.5,1.99,48.4,46.9,1.5,-3.62,2.11,62.3,-0.2,61.7,0.0
+2026-10-24,Dallas Mavericks @ Indiana Pacers,Q1_OU,Q1 Under 62.5,1.76,51.6,53.1,-1.5,-9.24,1.98,62.3,0.2,62.9,0.0
+2026-10-24,Minnesota Timberwolves @ Orlando Magic,Q1_OU,Q1 Over 57.5,1.96,42.1,47.2,-5.09,-17.52,2.42,54.9,-2.6,54.3,0.0
+2026-10-24,Minnesota Timberwolves @ Orlando Magic,Q1_OU,Q1 Under 57.5,1.75,57.9,52.8,5.09,1.36,1.76,54.9,2.6,55.5,0.45
+2026-10-24,Toronto Raptors @ Washington Wizards,Q1_OU,Q1 Over 57.5,1.8,52.0,52.6,-0.59,-6.32,1.96,58.1,0.6,57.5,0.0
+2026-10-24,Toronto Raptors @ Washington Wizards,Q1_OU,Q1 Under 57.5,2.0,48.0,47.4,0.59,-4.09,2.13,58.1,-0.6,58.7,0.0
+2026-10-24,Detroit Pistons @ Miami Heat,Q1_OU,Q1 Over 61.5,1.91,45.3,48.5,-3.22,-13.48,2.25,60.0,-1.5,59.4,0.0
+2026-10-24,Detroit Pistons @ Miami Heat,Q1_OU,Q1 Under 61.5,1.8,54.7,51.5,3.22,-1.54,1.86,60.0,1.5,60.6,0.0
+2026-10-24,Houston Rockets @ San Antonio Spurs,Q1_OU,Q1 Over 55.5,1.95,47.0,49.0,-2.0,-8.44,2.17,54.6,-0.9,54.0,0.0
+2026-10-24,Houston Rockets @ San Antonio Spurs,Q1_OU,Q1 Under 55.5,1.87,53.0,51.0,2.0,-0.8,1.92,54.6,0.9,55.2,0.0
+2026-10-24,New Orleans Pelicans @ Utah Jazz,Q1_OU,Q1 Over 62.5,1.83,49.3,50.0,-0.68,-9.75,2.07,62.4,-0.1,61.8,0.0
+2026-10-24,New Orleans Pelicans @ Utah Jazz,Q1_OU,Q1 Under 62.5,1.83,50.7,50.0,0.68,-7.25,2.01,62.4,0.1,62.9,0.0
+2026-10-24,Memphis Grizzlies @ Golden State Warriors,Q1_OU,Q1 Over 61.5,1.91,44.1,48.5,-4.42,-15.77,2.31,59.6,-1.9,59.0,0.0
+2026-10-24,Memphis Grizzlies @ Golden State Warriors,Q1_OU,Q1 Under 61.5,1.8,55.9,51.5,4.42,0.62,1.82,59.6,1.9,60.2,0.19
+2026-10-24,Los Angeles Clippers @ Los Angeles Lakers,Q1_OU,Q1 Over 55.5,1.9,51.6,50.0,1.61,-1.94,1.98,56.2,0.7,55.6,0.0
+2026-10-24,Los Angeles Clippers @ Los Angeles Lakers,Q1_OU,Q1 Under 55.5,1.9,48.4,50.0,-1.61,-8.06,2.11,56.2,-0.7,56.8,0.0
+2026-10-24,Portland Trail Blazers @ Sacramento Kings,Q1_OU,Q1 Over 60.5,1.91,43.0,48.5,-5.47,-17.78,2.37,58.2,-2.3,57.6,0.0
+2026-10-24,Portland Trail Blazers @ Sacramento Kings,Q1_OU,Q1 Under 60.5,1.8,57.0,51.5,5.47,2.51,1.79,58.2,2.3,58.8,0.79

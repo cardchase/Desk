@@ -15,7 +15,7 @@
           "maxWorkers": 10,
           "targetUrl": "https://www.oddsportal.com/football/spain/laliga/results/",
           "scrapeMode": "historical",
-          "autoSaveCsvPath": "D:/Project/VibeETL/outputs/laliga_intermediate.csv",
+          "autoSaveCsvPath": "D:/Project/Loomflow/outputs/laliga_intermediate.csv",
           "scrapeAllSeasons": true,
           "autoSaveBatchSize": 1
         },
@@ -74,7 +74,7 @@
         "icon": "Save",
         "parameters": {
           "saveFile": true,
-          "outputPath": "D:/Project/VibeETL/outputs/laliga.csv",
+          "outputPath": "D:/Project/Loomflow/outputs/laliga.csv",
           "outputFormat": "csv",
           "sheetName": "Sheet1"
         },

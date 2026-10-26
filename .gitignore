@@ -1,21 +1,64 @@
-backend/app/__pycache__/
-backend/app/tools/__pycache__/
-backend/app/utils/__pycache__/
-backend/.autosaves/
-backend/.vibe/
-backend/.vibe_cache/
-backend/uploads/
-backend/venv/
-frontend/node_modules/
-backend/scratch/
-scratch/
-*.log
-node_modules/
-outputs/
-backend/outputs/
-.env
-backend/.env
-backend/vibe_etl.db
-.agents/
+# ==========================================
+# Python & Bytecode
+# ==========================================
 __pycache__/
-backend/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# ==========================================
+# Virtual Environments
+# ==========================================
+.venv/
+venv/
+backend/venv/
+
+# ==========================================
+# Node.js & Web Builds
+# ==========================================
+node_modules/
+frontend/node_modules/
+dashboard/node_modules/
+dist/
+build/
+.vite/
+
+# ==========================================
+# LoomFlow Caches & Auto-Saves
+# ==========================================
+.loomflow_cache/
+backend/.autosaves/
+backend/.loomflow/
+backend/.vibe_cache/
+backend/.vibe/
+backend/loomflow_etl.db
+backend/vibe_etl.db
+
+# ==========================================
+# Logs, Scratches & Temporary Files
+# ==========================================
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+scratch/
+backend/scratch/
+backend/outputs/
+backend/uploads/
+outputs/
+
+# ==========================================
+# Environment Variables & Secrets
+# ==========================================
+.env
+.env.*
+backend/.env
+!*.env.example
+
+# ==========================================
+# OS Artifacts
+# ==========================================
+.DS_Store
+Thumbs.db

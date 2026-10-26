@@ -1,0 +1,25 @@
+Date,Matchup,Market,Pick,Odds,Model_Prob_%,Bookie_Prob_%,Edge_%,EV_%,Min_Playable_Odds,Model_Proj_Pts,Line_Cushion_Pts,Play_To_Line,Rec_Units
+2026-10-23,Cleveland Cavaliers @ Philadelphia 76ers,FT_ML,Philadelphia 76ers ML,1.65,54.8,58.2,-3.46,-9.64,1.86,,,,0.0
+2026-10-23,Cleveland Cavaliers @ Philadelphia 76ers,FT_ML,Cleveland Cavaliers ML,2.3,45.2,41.8,3.46,4.04,2.25,,,,0.78
+2026-10-23,Denver Nuggets @ Oklahoma City Thunder,FT_ML,Oklahoma City Thunder ML,1.3,75.0,73.7,1.26,-2.51,1.36,,,,0.0
+2026-10-23,Denver Nuggets @ Oklahoma City Thunder,FT_ML,Denver Nuggets ML,3.65,25.0,26.3,-1.26,-8.72,4.08,,,,0.0
+2026-10-23,Cleveland Cavaliers @ Philadelphia 76ers,1H_ML,Philadelphia 76ers ML,1.79,51.3,53.5,-2.23,-8.21,1.99,,,,0.0
+2026-10-23,Cleveland Cavaliers @ Philadelphia 76ers,1H_ML,Cleveland Cavaliers ML,2.06,48.7,46.5,2.23,0.37,2.09,,,,0.09
+2026-10-23,Denver Nuggets @ Oklahoma City Thunder,1H_ML,Oklahoma City Thunder ML,1.48,66.4,65.0,1.42,-1.68,1.54,,,,0.0
+2026-10-23,Denver Nuggets @ Oklahoma City Thunder,1H_ML,Denver Nuggets ML,2.75,33.6,35.0,-1.42,-7.68,3.04,,,,0.0
+2026-10-23,Cleveland Cavaliers @ Philadelphia 76ers,Q1_ML,Philadelphia 76ers ML,1.8,53.7,53.2,0.47,-3.3,1.9,,,,0.0
+2026-10-23,Cleveland Cavaliers @ Philadelphia 76ers,Q1_ML,Cleveland Cavaliers ML,2.05,46.3,46.8,-0.47,-5.13,2.2,,,,0.0
+2026-10-23,Denver Nuggets @ Oklahoma City Thunder,Q1_ML,Oklahoma City Thunder ML,1.59,58.1,60.6,-2.51,-7.56,1.75,,,,0.0
+2026-10-23,Denver Nuggets @ Oklahoma City Thunder,Q1_ML,Denver Nuggets ML,2.45,41.9,39.4,2.51,2.57,2.44,,,,0.44
+2026-10-23,Cleveland Cavaliers @ Philadelphia 76ers,FT_OU,FT Over 235.5,1.85,37.1,50.0,-12.9,-31.36,2.75,224.9,-10.6,223.6,0.0
+2026-10-23,Cleveland Cavaliers @ Philadelphia 76ers,FT_OU,FT Under 235.5,1.85,62.9,50.0,12.9,16.36,1.62,224.9,10.6,226.2,4.81
+2026-10-23,Denver Nuggets @ Oklahoma City Thunder,FT_OU,FT Over 236.5,1.91,41.3,48.5,-7.21,-21.1,2.47,229.8,-6.7,228.5,0.0
+2026-10-23,Denver Nuggets @ Oklahoma City Thunder,FT_OU,FT Under 236.5,1.8,58.7,51.5,7.21,5.64,1.74,229.8,6.7,231.1,1.76
+2026-10-23,Cleveland Cavaliers @ Philadelphia 76ers,1H_OU,1H Over 114.5,1.91,45.0,50.0,-4.96,-13.97,2.26,112.0,-2.5,111.1,0.0
+2026-10-23,Cleveland Cavaliers @ Philadelphia 76ers,1H_OU,1H Under 114.5,1.91,55.0,50.0,4.96,4.97,1.86,112.0,2.5,112.8,1.37
+2026-10-23,Denver Nuggets @ Oklahoma City Thunder,1H_OU,1H Over 114.5,1.91,50.6,50.0,0.58,-3.39,2.02,114.8,0.3,114.0,0.0
+2026-10-23,Denver Nuggets @ Oklahoma City Thunder,1H_OU,1H Under 114.5,1.91,49.4,50.0,-0.58,-5.61,2.06,114.8,-0.3,115.7,0.0
+2026-10-23,Cleveland Cavaliers @ Philadelphia 76ers,Q1_OU,Q1 Over 57.5,1.83,46.8,52.2,-5.43,-14.37,2.18,56.3,-1.2,55.7,0.0
+2026-10-23,Cleveland Cavaliers @ Philadelphia 76ers,Q1_OU,Q1 Under 57.5,2.0,53.2,47.8,5.43,6.41,1.92,56.3,1.2,56.8,1.6
+2026-10-23,Denver Nuggets @ Oklahoma City Thunder,Q1_OU,Q1 Over 57.5,1.83,49.7,52.2,-2.55,-9.11,2.05,57.2,-0.3,56.6,0.0
+2026-10-23,Denver Nuggets @ Oklahoma City Thunder,Q1_OU,Q1 Under 57.5,2.0,50.3,47.8,2.55,0.67,2.03,57.2,0.3,57.8,0.17
