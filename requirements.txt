@@ -1,0 +1,66 @@
+# ==============================================================================
+# Desk (Institutional Quantitative Intelligence & Systematic Execution Engine)
+# Core Runtime Dependencies
+# ==============================================================================
+
+# --- Sports Scraping, Headless Automation & Anti-Bot Stealth ---
+playwright>=1.40.0
+playwright-stealth>=2.0.0
+
+# --- High-Performance Data Processing & Vectorized Computation ---
+polars>=1.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=14.0.0
+
+# --- Machine Learning, Statistical Inference & Predictive Modeling ---
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+scipy>=1.11.0
+
+# --- API Services, ASGI Server & Backend Runtime ---
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
+python-multipart>=0.0.9
+truststore>=0.10.0
+
+# --- Database Connectors, Relational Engines & ADBC ---
+sqlalchemy>=2.0.0
+sqlmodel>=0.0.14
+adbc-driver-sqlite>=1.0.0
+adbc-driver-manager>=1.0.0
+
+# --- Cloud Storage, Google Workspace & Generative AI SDKs ---
+google-genai>=1.0.0
+google-generativeai>=0.8.0
+google-auth>=2.20.0
+google-auth-oauthlib>=1.0.0
+google-cloud-storage>=2.10.0
+gspread>=6.0.0
+gcsfs>=2024.1.0
+fsspec>=2024.1.0
+
+# --- Document Processing, Tabular I/O & Reporting ---
+openpyxl>=3.1.0
+pillow>=10.0.0
+pdfplumber>=0.11.0
+pypdf>=4.0.0
+reportlab>=4.0.0
+markdown>=3.5.0
+tabulate>=0.9.0
+beautifulsoup4>=4.12.0
+
+# --- Interactive Visualizations & Analytics ---
+plotly>=5.15.0
+matplotlib>=3.8.0
+
+# --- HTTP Networking, Async Clients & System Telemetry ---
+requests>=2.31.0
+httpx>=0.27.0
+aiohttp>=3.9.0
+tqdm>=4.66.0
+rich>=13.7.0
+psutil>=5.9.0
